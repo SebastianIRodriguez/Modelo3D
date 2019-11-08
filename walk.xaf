@@ -1,0 +1,235 @@
+<MaxAnimation version="1.00" date="Thu Nov  7 21:31:02 2019">
+    <SceneInfo fileName="modelo@walk.max" startTick="0" endTick="3840" frameRate="30" ticksPerFrame="160" />
+    <CustomData />
+    <Node name="Circle004" parentNode="NGon006" parentNodeIndex="0" distanceToParent="204.382401" numChildren="1">
+        <Samples count="24">
+            <S t="0" v="-0.447683 -0.894192 -0.000000 0.099585 -0.049858 -0.993779 0.888630 -0.444898 0.111368 313.829376 -177.383759 221.767731" />
+            <S t="160" v="-0.426880 -0.902295 0.060314 0.085939 -0.106871 -0.990552 0.900216 -0.417664 0.123163 313.829376 -172.783249 220.210571" />
+            <S t="320" v="-0.336286 -0.924713 0.178374 0.071495 -0.213926 -0.974230 0.939042 -0.314867 0.138053 313.829376 -160.652649 216.159576" />
+            <S t="480" v="-0.177403 -0.954577 0.239398 0.087084 -0.257528 -0.962339 0.980278 -0.149874 0.128815 313.829376 -143.498352 210.545532" />
+            <S t="640" v="-0.040025 -0.983878 0.174306 0.108261 -0.177689 -0.978114 0.993316 -0.020278 0.113628 313.829376 -123.826744 204.299164" />
+            <S t="800" v="-0.000000 -1.000000 0.000000 0.111368 -0.000000 -0.993779 0.993779 -0.000000 0.111368 313.829376 -104.144211 198.351257" />
+            <S t="960" v="0.003942 -0.951562 -0.307433 0.124541 0.305509 -0.944009 0.992207 -0.034567 0.119713 313.829376 -81.115997 191.802338" />
+            <S t="1120" v="0.041514 -0.727480 -0.684872 0.144938 0.682597 -0.716278 0.988570 -0.069529 0.133777 313.829376 -52.609787 183.891388" />
+            <S t="1280" v="0.120555 -0.318442 -0.940246 0.125677 0.944428 -0.303744 0.984719 -0.081550 0.153876 313.829376 -22.935631 175.756775" />
+            <S t="1440" v="0.196180 0.129101 -0.972032 0.045803 0.989007 0.140600 0.979498 -0.072105 0.188110 313.829376 3.596443 168.536926" />
+            <S t="1600" v="0.229185 0.446189 -0.865095 -0.050322 0.892994 0.447246 0.972081 -0.058969 0.227114 313.829376 22.676384 163.370178" />
+            <S t="1760" v="0.233147 0.557982 -0.796429 -0.094285 0.828111 0.552578 0.967860 -0.053741 0.245681 313.829376 29.994148 161.394958" />
+            <S t="1920" v="0.229612 0.441650 -0.867308 -0.049160 0.895242 0.442860 0.972040 -0.059049 0.227270 314.274139 24.248001 161.421600" />
+            <S t="2080" v="0.196218 0.113009 -0.974027 0.048981 0.990967 0.124841 0.979336 -0.072205 0.188910 315.386047 9.162582 161.608124" />
+            <S t="2240" v="0.118978 -0.344255 -0.931307 0.128947 0.935383 -0.329288 0.984488 -0.080911 0.155681 316.831512 -12.032598 162.114441" />
+            <S t="2400" v="0.039702 -0.749344 -0.660990 0.146250 0.658745 -0.738015 0.988451 -0.067369 0.135745 318.276978 -36.108032 163.100403" />
+            <S t="2560" v="0.003450 -0.959045 -0.283232 0.124635 0.281438 -0.951451 0.992197 -0.032018 0.120501 319.388855 -59.834198 164.725891" />
+            <S t="2720" v="-0.000000 -1.000000 0.000000 0.111368 -0.000000 -0.993779 0.993779 -0.000000 0.111368 319.833618 -79.981583 167.150818" />
+            <S t="2880" v="-0.026214 -0.988064 0.151799 0.109814 -0.153778 -0.981984 0.993606 -0.009072 0.112534 319.388855 -99.197601 173.195084" />
+            <S t="3040" v="-0.123636 -0.964784 0.232178 0.095754 -0.244480 -0.964915 0.987697 -0.097066 0.122609 318.276978 -120.595329 183.868912" />
+            <S t="3200" v="-0.261292 -0.939246 0.222583 0.075769 -0.249840 -0.965318 0.962282 -0.235365 0.136447 316.831512 -141.643799 196.617722" />
+            <S t="3360" v="-0.376123 -0.915992 0.139608 0.073636 -0.179745 -0.980953 0.923639 -0.358679 0.135056 315.386047 -159.812012 208.886871" />
+            <S t="3520" v="-0.434058 -0.899838 0.043428 0.089470 -0.091026 -0.991821 0.896431 -0.426623 0.120019 314.274139 -172.568985 218.121750" />
+            <S t="3680" v="-0.447683 -0.894192 -0.000000 0.099585 -0.049858 -0.993779 0.888630 -0.444898 0.111368 313.829376 -177.383759 221.767731" />
+        </Samples>
+        <Controller name="Circle004 \ Transform" classOf="Position/Rotation/Scale" classID="2005,0" superClassID="9008" subNum="2" numChildren="3" filterType="transform" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="24">
+                <MVal t="0" v="-0.447683 -0.894192 -0.0 0.099585 -0.049858 -0.993779 0.888630 -0.444898 0.111368 108.985199 -133.893982 109.392860 " />
+                <MVal t="160" v="-0.426880 -0.902295 0.060314 0.085939 -0.106871 -0.990552 0.900216 -0.417664 0.123163 108.985199 -129.293472 107.835701 " />
+                <MVal t="320" v="-0.336286 -0.924713 0.178374 0.071495 -0.213926 -0.974230 0.939042 -0.314867 0.138053 108.985199 -117.162872 103.784706 " />
+                <MVal t="480" v="-0.177403 -0.954577 0.239398 0.087084 -0.257528 -0.962339 0.980278 -0.149874 0.128815 108.985199 -100.008575 98.170662 " />
+                <MVal t="640" v="-0.040025 -0.983878 0.174306 0.108261 -0.177689 -0.978114 0.993316 -0.020278 0.113628 108.985199 -80.336967 91.924294 " />
+                <MVal t="800" v="-0.0 -1.000000 0.0 0.111368 -0.0 -0.993779 0.993779 -0.0 0.111368 108.985199 -60.654434 85.976387 " />
+                <MVal t="960" v="0.003942 -0.951562 -0.307433 0.124541 0.305509 -0.944009 0.992207 -0.034567 0.119713 108.985199 -37.626221 79.427467 " />
+                <MVal t="1120" v="0.041514 -0.727480 -0.684872 0.144938 0.682597 -0.716278 0.988570 -0.069529 0.133777 108.985199 -9.120010 71.516518 " />
+                <MVal t="1280" v="0.120555 -0.318442 -0.940246 0.125677 0.944428 -0.303744 0.984719 -0.081550 0.153876 108.985199 20.554146 63.381905 " />
+                <MVal t="1440" v="0.196180 0.129101 -0.972032 0.045803 0.989007 0.140600 0.979498 -0.072105 0.188110 108.985199 47.086220 56.162056 " />
+                <MVal t="1600" v="0.229185 0.446189 -0.865095 -0.050322 0.892994 0.447246 0.972081 -0.058969 0.227114 108.985199 66.166161 50.995308 " />
+                <MVal t="1760" v="0.233147 0.557982 -0.796429 -0.094285 0.828111 0.552578 0.967860 -0.053741 0.245681 108.985199 73.483925 49.020088 " />
+                <MVal t="1920" v="0.229612 0.441650 -0.867308 -0.049160 0.895242 0.442860 0.972040 -0.059049 0.227270 109.429962 67.737778 49.046730 " />
+                <MVal t="2080" v="0.196218 0.113009 -0.974027 0.048981 0.990967 0.124841 0.979336 -0.072205 0.188910 110.541870 52.652359 49.233253 " />
+                <MVal t="2240" v="0.118978 -0.344255 -0.931307 0.128947 0.935383 -0.329288 0.984488 -0.080911 0.155681 111.987335 31.457178 49.739571 " />
+                <MVal t="2400" v="0.039702 -0.749344 -0.660990 0.146250 0.658745 -0.738015 0.988451 -0.067369 0.135745 113.432800 7.381744 50.725533 " />
+                <MVal t="2560" v="0.003450 -0.959045 -0.283232 0.124635 0.281438 -0.951451 0.992197 -0.032018 0.120501 114.544678 -16.344421 52.351021 " />
+                <MVal t="2720" v="-0.0 -1.000000 0.0 0.111368 -0.0 -0.993779 0.993779 -0.0 0.111368 114.989441 -36.491806 54.775948 " />
+                <MVal t="2880" v="-0.026214 -0.988064 0.151799 0.109814 -0.153778 -0.981984 0.993606 -0.009072 0.112534 114.544678 -55.707825 60.820213 " />
+                <MVal t="3040" v="-0.123636 -0.964784 0.232178 0.095754 -0.244480 -0.964915 0.987697 -0.097066 0.122609 113.432800 -77.105553 71.494041 " />
+                <MVal t="3200" v="-0.261292 -0.939246 0.222583 0.075769 -0.249840 -0.965318 0.962282 -0.235365 0.136447 111.987335 -98.154022 84.242851 " />
+                <MVal t="3360" v="-0.376123 -0.915992 0.139608 0.073636 -0.179745 -0.980953 0.923639 -0.358679 0.135056 110.541870 -116.322235 96.512001 " />
+                <MVal t="3520" v="-0.434058 -0.899838 0.043428 0.089470 -0.091026 -0.991821 0.896431 -0.426623 0.120019 109.429962 -129.079208 105.746880 " />
+                <MVal t="3680" v="-0.447683 -0.894192 -0.0 0.099585 -0.049858 -0.993779 0.888630 -0.444898 0.111368 108.985199 -133.893982 109.392860 " />
+            </Samples>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Position" classOf="Position List" classID="4B4B1002,0" superClassID="900B" subNum="0" numChildren="4" filterType="pos" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="24">
+                <P3Val t="0" v="108.985199 -133.893982 109.392853 " />
+                <P3Val t="160" v="108.985199 -129.293472 107.835693 " />
+                <P3Val t="320" v="108.985199 -117.162880 103.784698 " />
+                <P3Val t="480" v="108.985199 -100.008583 98.170654 " />
+                <P3Val t="640" v="108.985199 -80.336967 91.924286 " />
+                <P3Val t="800" v="108.985199 -60.654438 85.976379 " />
+                <P3Val t="960" v="108.985199 -37.626221 79.427460 " />
+                <P3Val t="1120" v="108.985199 -9.120012 71.516510 " />
+                <P3Val t="1280" v="108.985199 20.554146 63.381897 " />
+                <P3Val t="1440" v="108.985199 47.086220 56.162048 " />
+                <P3Val t="1600" v="108.985199 66.166161 50.995300 " />
+                <P3Val t="1760" v="108.985199 73.483925 49.020081 " />
+                <P3Val t="1920" v="109.429962 67.737778 49.046722 " />
+                <P3Val t="2080" v="110.541855 52.652359 49.233246 " />
+                <P3Val t="2240" v="111.987335 31.457178 49.739563 " />
+                <P3Val t="2400" v="113.432800 7.381743 50.725525 " />
+                <P3Val t="2560" v="114.544693 -16.344421 52.351013 " />
+                <P3Val t="2720" v="114.989456 -36.491806 54.775940 " />
+                <P3Val t="2880" v="114.544693 -55.707821 60.820206 " />
+                <P3Val t="3040" v="113.432800 -77.105553 71.494034 " />
+                <P3Val t="3200" v="111.987335 -98.154015 84.242844 " />
+                <P3Val t="3360" v="110.541855 -116.322235 96.511993 " />
+                <P3Val t="3520" v="109.429962 -129.079208 105.746872 " />
+                <P3Val t="3680" v="108.985199 -133.893982 109.392853 " />
+            </Samples>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Position \ Zero Pos XYZ" classOf="Position XYZ" classID="118F7E02,FFEE238A" superClassID="900B" subNum="1" numChildren="3" filterType="pos" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="24">
+                <P3Val t="0" v="-241.221771 -136.771118 -206.235443 " />
+                <P3Val t="160" v="-241.221771 -132.170609 -207.792603 " />
+                <P3Val t="320" v="-241.221771 -120.040016 -211.843597 " />
+                <P3Val t="480" v="-241.221771 -102.885719 -217.457642 " />
+                <P3Val t="640" v="-241.221771 -83.214104 -223.704010 " />
+                <P3Val t="800" v="-241.221771 -63.531574 -229.651917 " />
+                <P3Val t="960" v="-241.221771 -40.503357 -236.200836 " />
+                <P3Val t="1120" v="-241.221771 -11.997149 -244.111786 " />
+                <P3Val t="1280" v="-241.221771 17.677010 -252.246399 " />
+                <P3Val t="1440" v="-241.221771 44.209084 -259.466248 " />
+                <P3Val t="1600" v="-241.221771 63.289024 -264.632996 " />
+                <P3Val t="1760" v="-241.221771 70.606789 -266.608215 " />
+                <P3Val t="1920" v="-240.777008 64.860641 -266.581573 " />
+                <P3Val t="2080" v="-239.665115 49.775223 -266.395050 " />
+                <P3Val t="2240" v="-238.219635 28.580042 -265.888733 " />
+                <P3Val t="2400" v="-236.774170 4.504607 -264.902771 " />
+                <P3Val t="2560" v="-235.662277 -19.221558 -263.277283 " />
+                <P3Val t="2720" v="-235.217514 -39.368942 -260.852356 " />
+                <P3Val t="2880" v="-235.662277 -58.584957 -254.808090 " />
+                <P3Val t="3040" v="-236.774170 -79.982689 -244.134262 " />
+                <P3Val t="3200" v="-238.219635 -101.031151 -231.385452 " />
+                <P3Val t="3360" v="-239.665115 -119.199371 -219.116302 " />
+                <P3Val t="3520" v="-240.777008 -131.956345 -209.881424 " />
+                <P3Val t="3680" v="-241.221771 -136.771118 -206.235443 " />
+            </Samples>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Position \ Zero Pos XYZ \ X Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="posx" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="160" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-241.221771 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="960" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-241.221771 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1920" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-241.221771 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2880" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-235.217514 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3840" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-241.221771 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Position \ Zero Pos XYZ \ Y Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="1" numChildren="0" filterType="posy" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="160" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-136.771118 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="960" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-63.531574 " inTanVal="-0.117828 " outTanVal="0.117828 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1920" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="70.606789 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2880" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-39.368942 " inTanVal="0.108009 " outTanVal="-0.108009 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3840" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-136.771118 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Position \ Zero Pos XYZ \ Z Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="posz" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="160" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-206.235443 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="960" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-229.651917 " inTanVal="0.034303 " outTanVal="-0.034303 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1920" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-266.608215 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2880" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-260.852356 " inTanVal="-0.017987 " outTanVal="0.017987 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3840" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-206.235443 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Rotation" classOf="Rotation List" classID="4B4B1003,0" superClassID="900C" subNum="1" numChildren="4" filterType="rot" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="24">
+                <RVal t="0" v="0.350288 -0.567110 0.634214 0.391736 " />
+                <RVal t="160" v="0.373104 -0.547002 0.643606 0.383866 " />
+                <RVal t="320" v="0.429996 -0.496061 0.649666 0.383354 " />
+                <RVal t="480" v="0.487676 -0.444708 0.625249 0.416498 " />
+                <RVal t="640" v="0.505973 -0.432640 0.576919 0.473264 " />
+                <RVal t="800" v="0.471336 -0.471336 0.527107 0.527107 " />
+                <RVal t="960" v="0.380368 -0.543566 0.450073 0.597738 " />
+                <RVal t="1120" v="0.237245 -0.613862 0.320026 0.681522 " />
+                <RVal t="1280" v="0.074583 -0.646142 0.149075 0.744792 " />
+                <RVal t="1440" v="-0.069035 -0.633387 -0.027035 0.770275 " />
+                <RVal t="1600" v="-0.165134 -0.599311 -0.161968 0.766370 " />
+                <RVal t="1760" v="-0.199597 -0.580793 -0.214723 0.759430 " />
+                <RVal t="1920" v="-0.163631 -0.599658 -0.160012 0.766832 " />
+                <RVal t="2080" v="-0.063915 -0.633609 -0.020769 0.770729 " />
+                <RVal t="2240" v="0.083537 -0.644346 0.159154 0.743310 " />
+                <RVal t="2400" v="0.247594 -0.608954 0.330643 0.677162 " />
+                <RVal t="2560" v="0.387786 -0.537933 0.457059 0.592746 " />
+                <RVal t="2720" v="0.471336 -0.471336 0.527107 0.527107 " />
+                <RVal t="2880" v="0.503743 -0.435862 0.568447 0.482841 " />
+                <RVal t="3040" v="0.499559 -0.434899 0.610476 0.434308 " />
+                <RVal t="3200" v="0.461547 -0.467708 0.641790 0.395384 " />
+                <RVal t="3360" v="0.408830 -0.515102 0.650178 0.380522 " />
+                <RVal t="3520" v="0.366384 -0.552950 0.641308 0.385660 " />
+                <RVal t="3680" v="0.350288 -0.567110 0.634214 0.391736 " />
+            </Samples>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Rotation \ Zero Euler XYZ" classOf="Euler XYZ" classID="2012,0" superClassID="900C" subNum="1" numChildren="3" filterType="rot" outOfRangeBefore="constant" outOfRangeAfter="constant" eulerOrder="XZY" eulerRotatingFrame="true">
+            <Samples count="24">
+                <RVal t="0" v="-0.0 -0.845496 0.094751 0.525508 " />
+                <RVal t="160" v="0.022254 -0.836767 0.115156 0.534850 " />
+                <RVal t="320" v="0.065005 -0.802833 0.153629 0.572391 " />
+                <RVal t="480" v="0.085909 -0.748276 0.169658 0.635546 " />
+                <RVal t="640" v="0.061710 -0.707065 0.141675 0.690058 " />
+                <RVal t="800" v="-0.0 -0.702708 0.078749 0.707107 " />
+                <RVal t="960" v="-0.114892 -0.705202 -0.026821 0.699121 " />
+                <RVal t="1120" v="-0.277430 -0.670918 -0.170621 0.666175 " />
+                <RVal t="1280" v="-0.440859 -0.581030 -0.319572 0.604914 " />
+                <RVal t="1440" v="-0.564904 -0.454133 -0.442350 0.528179 " />
+                <RVal t="1600" v="0.633937 0.338789 0.520221 -0.461211 " />
+                <RVal t="1760" v="0.655001 0.289820 0.547203 -0.433067 " />
+                <RVal t="1920" v="0.633124 0.340351 0.518994 -0.462558 " />
+                <RVal t="2080" v="-0.561390 -0.458475 -0.437826 0.531930 " />
+                <RVal t="2240" v="-0.433196 -0.586409 -0.310862 0.609779 " />
+                <RVal t="2400" v="-0.266808 -0.674336 -0.159435 0.669824 " />
+                <RVal t="2560" v="-0.106035 -0.705660 -0.017859 0.700344 " />
+                <RVal t="2720" v="-0.0 -0.702708 0.078749 0.707107 " />
+                <RVal t="2880" v="0.053664 -0.703819 0.133212 0.695710 " />
+                <RVal t="3040" v="0.082896 -0.731117 0.165184 0.656742 " />
+                <RVal t="3200" v="0.080505 -0.776448 0.166657 0.602390 " />
+                <RVal t="3360" v="0.051114 -0.817368 0.141318 0.556171 " />
+                <RVal t="3520" v="0.016049 -0.839669 0.109478 0.531708 " />
+                <RVal t="3680" v="-0.0 -0.845496 0.094751 0.525508 " />
+            </Samples>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Rotation \ Zero Euler XYZ \ X Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="rotx" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="160" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-2.784710 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="960" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-1.459198 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1920" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-1.541358 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2880" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-1.459198 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3840" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-2.784710 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Rotation \ Zero Euler XYZ \ Y Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="1" numChildren="0" filterType="roty" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="160" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.094349 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="960" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.459196 " inTanVal="-0.001368 " outTanVal="0.001368 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1920" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="3.626147 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2880" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.459196 " inTanVal="0.001140 " outTanVal="-0.001140 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3840" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.094349 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Rotation \ Zero Euler XYZ \ Z Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="rotz" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="160" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-2.922712 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="960" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-1.570797 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1920" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-1.837422 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2880" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-1.570797 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3840" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-2.922712 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Circle004 \ Transform \ Scale" classOf="Bezier Scale" classID="2010,0" superClassID="900D" subNum="2" numChildren="0" filterType="scale" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <K t="160" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 1.0 1.0 0.0 0.0 0.0 1.0 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="960" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 1.0 1.0 0.0 0.0 0.0 1.0 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1920" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 1.0 1.0 0.0 0.0 0.0 1.0 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="2880" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 1.0 1.0 0.0 0.0 0.0 1.0 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="3840" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 1.0 1.0 0.0 0.0 0.0 1.0 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+            </Keys>
+        </Controller>
+    </Node>
+</MaxAnimation>
